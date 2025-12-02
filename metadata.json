@@ -1,0 +1,7 @@
+{
+  "name": "Neon Snake: AI & Vision",
+  "description": "A futuristic Snake game controlled by hand gestures via webcam, featuring dynamic AI-generated themes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
